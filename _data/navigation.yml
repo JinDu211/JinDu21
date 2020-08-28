@@ -1,0 +1,17 @@
+# main links links
+main:
+  - title: "科研能力"
+    url: /articles/
+
+  - title: "项目实践"
+    url: /talks/    
+    
+  - title: "科创比赛"
+    url: /expressions/
+
+  - title: "个人荣誉"
+    url: /teaching/
+        
+  - title: "自我评价"
+    url: /year-archive/
+  
